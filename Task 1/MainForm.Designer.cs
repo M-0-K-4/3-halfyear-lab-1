@@ -128,18 +128,22 @@
             // 
             // label_Result
             // 
+            label_Result.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
             label_Result.AutoSize = true;
-            label_Result.Location = new Point(518, 234);
+            label_Result.Font = new Font("Yu Gothic UI Semibold", 14F, FontStyle.Bold);
+            label_Result.ForeColor = Color.FromArgb(217, 236, 242);
+            label_Result.Location = new Point(393, 215);
             label_Result.Name = "label_Result";
-            label_Result.Size = new Size(38, 15);
+            label_Result.Size = new Size(64, 25);
             label_Result.TabIndex = 8;
             label_Result.Text = "label4";
+            label_Result.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(70, 68, 69);
+            BackColor = Color.FromArgb(187, 179, 168);
             ClientSize = new Size(772, 261);
             Controls.Add(label_Result);
             Controls.Add(textBox_Y);
