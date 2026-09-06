@@ -1,0 +1,71 @@
+﻿[
+  {
+    "name": "Nick",
+    "surname": "Burkhardt",
+    "phoneNumber": "(503) 555-0142",
+    "address": "1013 SE Belmont St, Portland, OR 97214"
+  },
+
+  {
+    "name": "Juliette",
+    "surname": "Silverton",
+    "phoneNumber": "(503) 555-0198",
+    "address": "1013 SE Belmont St, Portland, OR 97214"
+  },
+
+  {
+    "name": "Hank",
+    "surname": "Griffin",
+    "phoneNumber": "(503) 555-0176",
+    "address": "2245 NE Sandy Blvd, Portland, OR 97232"
+  },
+
+  {
+    "name": "Monroe",
+    "surname": "",
+    "phoneNumber": "(503) 555-0123",
+    "address": "3517 SE Taggart St, Portland, OR 97202"
+  },
+
+  {
+    "name": "Rosalee",
+    "surname": "Calvert",
+    "phoneNumber": "(503) 555-0187",
+    "address": "4820 NW Thurman St, Portland, OR 97210"
+  },
+
+  {
+    "name": "Sean",
+    "surname": "Renard",
+    "phoneNumber": "(503) 555-0159",
+    "address": "900 SW 5th Ave, Portland, OR 97204"
+  },
+
+  {
+    "name": "Adalind",
+    "surname": "Schade",
+    "phoneNumber": "(503) 555-0134",
+    "address": "2200 NW Flanders St, Portland, OR 97210"
+  },
+
+  {
+    "name": "Wu",
+    "surname": "Drew",
+    "phoneNumber": "(503) 555-0167",
+    "address": "715 SE Hawthorne Blvd, Portland, OR 97214"
+  },
+
+  {
+    "name": "Bud",
+    "surname": "Wurstner",
+    "phoneNumber": "(503) 555-0145",
+    "address": "6110 SE Woodstock Blvd, Portland, OR 97206"
+  },
+
+  {
+    "name": "Kelly",
+    "surname": "Burkhardt",
+    "phoneNumber": "(503) 555-0112",
+    "address": "1220 SW Morrison St, Portland, OR 97205"
+  }
+]
